@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drezeira&label=Profile%20views&color=0e75b6&style=flat" alt="drezeira" /> </p>
 
-- 🔭 Eu estou trabalhando no momento no **Projeto NetWorks**
-
-- 🌱 Atualmente aprendendo **JavaScrip, Python e ADS pelo Group Uninter**
+- 🌱 Atualmente estudando o curso de ADS **Group Uninter**
 
 - 👨‍💻 Todos meus projetos estarão aqui: [https://github.com/Drezeira](https://github.com/Drezeira)
 
-- 📫 Entre em contato comigo via: **https://www.linkedin.com/in/drezeira/**
+- 📫 Entre em contato comigo via: **https://www.linkedin.com/in/afelipeveira/**
 
 - 📄 Veja minhas experiências disponíveis em: [https://www.linkedin.com/in/drezeira/](https://www.linkedin.com/in/drezeira/)
 
